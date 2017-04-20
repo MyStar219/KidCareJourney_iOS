@@ -1,0 +1,24 @@
+//
+//  PrefixHeader.pch
+//  KidCareJourney
+//
+//  Created by administrator on 3/7/17.
+//  Copyright © 2017 Eddie. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import "AFNetworking.h"
+#import "Global.h"
+#import "YPAPISample.h"
+#import "GlobalScope.h"
+#import "SVProgressHUD.h"
+#import <SDWebImage/UIImageView+WebCache.h>
+#import <HCSStarRatingView.h>
+
+#import "CustomAnnotation.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
